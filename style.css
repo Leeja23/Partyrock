@@ -1,3 +1,4 @@
+
 .main {
     background-image: url("https://media.licdn.com/dms/image/C4E12AQFEEpR7U6Ua9Q/article-cover_image-shrink_600_2000/0/1551782131138?e=2147483647&v=beta&t=A8_o1y9uI3dtcLtYKrobC7gqg_u2jnqTIadcbHlT-jw");
     background-size: cover;
@@ -8,24 +9,20 @@
     justify-content: center;
     align-items: center;
     border-radius: 10px;
-    margin: 30px;
-    box-sizing: border-box; /* Add this to include padding and border in element's total width and height */
+    margin:30px;
 }
 
 .bt {
-    padding: 20px;
-    margin: 20px;
+    padding: 50px;
+    margin:100px;
     border-radius: 20px;
     height: 50px;
     width: 100px;
     display: flex;
     justify-content: center; 
-    align-items: center; /* Center align the content vertically */
-    box-sizing: border-box;
-}
 
-#para {
-    font-size: 2rem; /* Use rem units for scalable font size */
-    color: black;
 }
-
+#para{
+    font-size:30px;
+    color:black
+}
